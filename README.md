@@ -4,4 +4,5 @@ The Password Generator is a simple project developed using HTML, CSS, and JavaSc
 
 # About the Project
 
-This password generator App is a simple interesting project which is simply in HTML, CSS, and JavaScript. In this project, you can select the options that you want to include in your password and customize the password length as per your need. You have to click on the generate password button to get the customized password. You can copy the generated password to the clipboard. *Also, this project includes a lot of JavaScript for making validations to certain parts of the project.
+This password generator App is a simple interesting project which is simply in HTML, CSS, and JavaScript. In this project, you can select the options that you want to include in your password and customize the password length as per your need. You have to click on the generate password button to get the customized password. You can copy the generated password to the clipboard. 
+*Also, this project includes a lot of JavaScript for making validations to certain parts of the project.
